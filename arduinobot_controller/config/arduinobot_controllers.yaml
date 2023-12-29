@@ -15,6 +15,9 @@ controller_manager:
 
     gripper_controller:
       type: forward_command_controller/ForwardCommandController
+    
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
 
 arm_controller:
   ros__parameters:
