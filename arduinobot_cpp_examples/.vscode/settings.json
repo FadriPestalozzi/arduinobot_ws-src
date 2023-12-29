@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fadri/courses/ROS2_Manipulators/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages",
+        "/home/fadri/courses/ROS2_Manipulators/arduinobot_ws/install/adruinobot_py_examples/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fadri/courses/ROS2_Manipulators/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages",
+        "/home/fadri/courses/ROS2_Manipulators/arduinobot_ws/install/adruinobot_py_examples/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ]
+}
