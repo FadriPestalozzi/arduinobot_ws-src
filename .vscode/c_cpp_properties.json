@@ -6,8 +6,12 @@
         "limitSymbolsToIncludedHeaders": false
       },
       "includePath": [
+        "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/install/arduinobot_msgs/include/**",
         "/opt/ros/iron/include/**",
-        "/home/fadri/courses/ROS2_Manipulators/arduinobot_ws/src/arduinobot_cpp_examples/include/**",
+        "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_controller/include/**",
+        "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_cpp_examples/include/**",
+        "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_description/include/**",
+        "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_msgs/include/**",
         "/usr/include/**"
       ],
       "name": "ROS",
