@@ -1,0 +1,15 @@
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/ament_index/resource_index/package_run_dependencies/arduinobot_moveit
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/ament_index/resource_index/parent_prefix_path/arduinobot_moveit
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/environment/ament_prefix_path.sh
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/environment/ament_prefix_path.dsv
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/environment/path.sh
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/environment/path.dsv
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/local_setup.bash
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/local_setup.sh
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/local_setup.zsh
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/local_setup.dsv
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/package.dsv
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/ament_index/resource_index/packages/arduinobot_moveit
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/cmake/arduinobot_moveitConfig.cmake
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/cmake/arduinobot_moveitConfig-version.cmake
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_moveit/share/arduinobot_moveit/package.xml

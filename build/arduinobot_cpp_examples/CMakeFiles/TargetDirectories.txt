@@ -1,0 +1,13 @@
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/uninstall.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/arduinobot_cpp_examples_uninstall.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/simple_publisher.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/simple_subscriber.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/simple_parameter.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/simple_service_server.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/test.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/edit_cache.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/rebuild_cache.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/list_install_components.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/install.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/install/local.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_cpp_examples/CMakeFiles/install/strip.dir

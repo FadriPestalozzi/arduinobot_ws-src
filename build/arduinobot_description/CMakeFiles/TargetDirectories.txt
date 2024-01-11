@@ -1,0 +1,9 @@
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/uninstall.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/arduinobot_description_uninstall.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/test.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/edit_cache.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/rebuild_cache.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/list_install_components.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/install.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/install/local.dir
+/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_description/CMakeFiles/install/strip.dir

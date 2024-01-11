@@ -1,0 +1,55 @@
+[0.544s] Invoking command in '/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_py_examples': AMENT_PREFIX_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs LD_LIBRARY_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/prefix_override:/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/arduinobot_py_examples build --build-base /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build install --record /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/install.log --single-version-externally-managed
+[0.681s] running egg_info
+[0.681s] creating ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info
+[0.681s] writing ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[0.681s] writing dependency_links to ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[0.682s] writing entry points to ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[0.682s] writing requirements to ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[0.682s] writing top-level names to ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[0.682s] writing manifest file '../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.683s] reading manifest file '../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.684s] writing manifest file '../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.684s] running build
+[0.684s] running build_py
+[0.684s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build
+[0.684s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib
+[0.684s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/simple_subscriber.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/simple_publisher.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/__init__.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/simple_parameter.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/simple_service_server.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] copying arduinobot_py_examples/simple_service_client.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.685s] running install
+[0.685s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.685s]   warnings.warn(
+[0.686s] running install_lib
+[0.686s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_subscriber.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_publisher.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/__init__.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_parameter.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_service_server.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] copying /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_service_client.py -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.686s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_subscriber.py to simple_subscriber.cpython-310.pyc
+[0.687s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_publisher.py to simple_publisher.cpython-310.pyc
+[0.687s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/__init__.py to __init__.cpython-310.pyc
+[0.687s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_parameter.py to simple_parameter.cpython-310.pyc
+[0.688s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_service_server.py to simple_service_server.cpython-310.pyc
+[0.688s] byte-compiling /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_service_client.py to simple_service_client.cpython-310.pyc
+[0.688s] running install_data
+[0.689s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/share/ament_index
+[0.689s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/share/ament_index/resource_index
+[0.689s] creating /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[0.689s] copying resource/arduinobot_py_examples -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[0.689s] copying package.xml -> /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/share/arduinobot_py_examples
+[0.689s] running install_egg_info
+[0.690s] Copying ../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info
+[0.691s] running install_scripts
+[0.706s] Installing simple_parameter script to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.707s] Installing simple_publisher script to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.707s] Installing simple_service_client script to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.707s] Installing simple_service_server script to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.707s] Installing simple_subscriber script to /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.707s] writing list of installed files to '/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/install.log'
+[0.725s] Invoked command in '/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/arduinobot_py_examples' returned '0': AMENT_PREFIX_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs LD_LIBRARY_PATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/prefix_override:/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/install/arduinobot_msgs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/arduinobot_py_examples build --build-base /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/build install --record /home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_py_examples/install.log --single-version-externally-managed

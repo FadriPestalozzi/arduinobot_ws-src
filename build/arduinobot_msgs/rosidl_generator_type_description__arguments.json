@@ -1,0 +1,11 @@
+{
+  "package_name": "arduinobot_msgs",
+  "output_dir": "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_msgs/rosidl_generator_type_description/arduinobot_msgs",
+  "idl_tuples": [
+    "/home/fadri/code/ros2/arduino-bot/arduinobot_ws/src/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/AddTwoInts.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/iron/share/service_msgs",
+    "builtin_interfaces:/opt/ros/iron/share/builtin_interfaces"
+  ]
+}
